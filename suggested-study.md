@@ -223,19 +223,3 @@ and finally ...
 - [Contribute to this Project!](https://github.com/Syknapse/Contribute-To-This-Project)
 
 ---
-
-## Class Recordings
-
-> - HYF modules are often updated, recordings from past classes may not match
->   this gitbook
-> - When sending a PR's with recording links please ...
->   - Indicate which class you were teaching
->   - Which week it was (if the module is more than 1 week)
->   - a helpful title or description
-
-### [Lab Antwerp 1](https://github.com/lab-antwerp-1/home)
-
-\| Unmesh, Tamer, Samir & Bermarte
-
-- Week 2: [part 1](https://vimeo.com/629264909),
-  [part 2](https://vimeo.com/631848652), [part 3](https://vimeo.com/631863480)

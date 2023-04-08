@@ -1,18 +1,75 @@
+<!-- - Make sure Node.js is installed on your computer
+- Practice navigating directories using the Command Line Interface
+- Play around a little with
+  [learngitbranching](https://learngitbranching.js.org/)
+- Take a look through
+  [First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)
+- Begin watching
+  [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- Setting up git & GitHub
+  [Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/setting-up-git)
+- Practice using VSCode to:
+  - open a project
+  - open, edit and save files
+  - use the built-in terminal
+  - run NPM commands
+
+You will practice these skills using the
+[`template-markdown`](https://github.com/HackYourFutureBelgium/template-markdown)
+repository.
+
+### Second half
+
+> All Together
+
+- _15 min_: Introductions from each coach & Q/A time about the secret lives of
+  developers
+- _30 min_: Q/A and review of previous materials
+- _75 minutes_: A coach shares their screen and does a guided walk through the
+  [`template-markdown`](https://github.com/HackYourFutureBelgium/template-markdown)
+  repository:
+  - what is git? and github?
+  - how to clone a repository from github?
+  - what is NPM?
+  - how do you install NPM dependencies?
+  - how can you find NPM scripts in a `package.json` file?
+  - what is linting? and formatting?
+
+### After Break
+
+- _60 min_: in small groups, practice writing great Markdown using code quality
+  checks, each person should try on their own computer:
+  - Clone the
+    [`template-markdown`](https://github.com/HackYourFutureBelgium/template-markdown)
+    repository
+  - Open it in VSCode
+  - Install dependencies
+  - Write some Markdown in the README and practice adding new files
+  - Practice using the formatting, linting and spell-check scripts to improve
+    your Markdown
+- _15 min_: All together, each group quickly presents:
+  - what went well
+  - what went less well
+  - lessons learned
+- _15 min_: introduce the week's deliverable
+
+## After
+
+- Read over the learning objectives for chapters 0, 1 & 2
+- Work your way through the exercises for these chapters (if there are any in
+  the folders)
+- Study the [Suggested Study](../suggested-study.md) for these chapters
+- Complete the [Student Bio PR](../deliverables/student-bio-pr.md) deliverable
+
 # GitHub Project Management
 
 Learn how to use Project Boards, Issues, Labels, Milestones and Pull Request to
 organize group development in a single repository.
 
-## Before
+## First half
 
-- Practice creating branches, pushing, pulling and opening Pull Requests
-- Read about GitHub project management features
-
-## During
-
-You will work in small groups to get set the Group Introduction deliverable.
-
-### Before Break
+- Make sure everyone has a `GitHub` account.
+- Make sure everyone has `git` in his/her machine.
 
 > all together
 
@@ -26,7 +83,7 @@ You will work in small groups to get set the Group Introduction deliverable.
     repository
 - _20 min_: Q/A about the week's deliverable
 
-### After Break
+### Second Half
 
 - _75 min_: In small groups, prepare for the week's deliverable:
   - Set up your group's repository:
@@ -60,4 +117,4 @@ You will work in small groups to get set the Group Introduction deliverable.
 - Study the [Suggested Study](../suggested-study.md) for this chapter
 - Complete the
   [Group Introduction Repo](../deliverables/group-introduction-repo.md)
-  deliverable
+  deliverable -->
