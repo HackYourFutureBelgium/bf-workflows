@@ -24,11 +24,13 @@ line, formatting & linting code, using git and GitHub.
   [install Vs code](https://code.visualstudio.com/download)
 
 - What is `git` and why do we need it? [git](../materials/git-intro.md)
-- What is `gitHub` and why do we need it?
-- What is `node` and why do we need it?
-- What is `npm` and why do we need it?
-- What is `VS code` and why do we need it?
-- What is `Markdown` and why do we need it?
+- What is `gitHub` and why do we need it?[gitHub](../materials/github-intro.md)
+- What is `node` and why do we need it?[node](../materials/node-intro.md)
+- What is `npm` and why do we need it?[npm](../materials/npm-intro.md)
+- What is `VS code` and why do we need
+  it?[VS code](../materials/vs-code-intro.md)
+- What is `Markdown` and why do we need
+  it?[markdown](../materials/markdown-intro.md)
 
 ## Second half
 

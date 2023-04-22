@@ -1,7 +1,5 @@
-# VSCode and Git
+# Git and GitHub
 
-In this workshop you will focus on the fundamental workflows you need as a
-developer working alone. This includes using VSCode, the command line,
-formatting & linting code, and using Git.
-
-## First half
+In this module you will focus on the fundamental workflows you need as a
+developer working alone and in a group. This includes using VSCode, the command
+line, formatting & linting code, using git and GitHub.
