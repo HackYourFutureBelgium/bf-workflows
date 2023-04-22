@@ -236,12 +236,6 @@ independent developers write and maintain the code we all rely on.
   a very effective way to learn programming.
 - Write lots of comments in the examples and exercises. The code in this
   repository is yours to study, modify and re-use in projects.
-- Practice
-  [Pair Programming](https://home.hackyourfuture.be/students/study-tips/pair-programming):
-  two people, one computer.
-- Take a look through the
-  [Learning From Code](https://home.hackyourfuture.be/students/study-tips/learning-from-code)
-  guide for more study tips
 
 ### Study Board
 

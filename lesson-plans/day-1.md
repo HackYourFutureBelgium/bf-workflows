@@ -20,10 +20,18 @@ line, formatting & linting code, using git and GitHub.
   [Do I have git on my machine](../materials/git-installalation.md)
 - Make sure all leaner have `node` on their machines.
   [Install node](../materials/node-installation.md)
+- Make sure all learners have `VS code`
+  [install Vs code](https://code.visualstudio.com/download)
 
 - What is `git` and why do we need it? [git](../materials/git-intro.md)
 - What is `gitHub` and why do we need it?
 - What is `node` and why do we need it?
 - What is `npm` and why do we need it?
+- What is `VS code` and why do we need it?
+- What is `Markdown` and why do we need it?
 
 ## Second half
+
+- **Student Bio**
+- Time to do you first `individual` project, write your bio using `markdown`
+  [Student bio](../deliverables/student-bio.md)
