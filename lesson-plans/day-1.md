@@ -31,6 +31,7 @@ line, formatting & linting code, using git and GitHub.
   it?[VS code](../materials/vs-code-intro.md)
 - What is `Markdown` and why do we need
   it?[markdown](../materials/markdown-intro.md)
+- Git and GitHub [more](../materials/git-github-intro.md)
 
 ## Second half
 

@@ -2,7 +2,7 @@
 
 > What is npm?
 
-NPM is Node Package Manager, provides two functionality:
+NPM is Node Package Manager, provides two functionalities:
 
 - Online repositories for node.js packages/modules which are searchable on
   search.nodejs.org

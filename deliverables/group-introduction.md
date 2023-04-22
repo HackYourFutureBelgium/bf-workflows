@@ -9,9 +9,9 @@ anything fancy. Your focus should be on getting to know each other and learning
 to work on a shared repository.
 
 When you're ready to start your group repo, create a new issue in the class repo
-using the `deliverable` template and add the `group` label. Fill out the
-project's description, list your group members, and paste this checklist into
-your issue before
+using the `deliverable` template and add the following labels `group`,
+`deliverable` and `week-1` labels. Fill out the project's description, list your
+group members, and paste this checklist into your issue before
 [adding it to the Class Projects board](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/adding-issues-and-pull-requests-to-a-project-board):
 
 > PS. check out other HYF classes for inspiration

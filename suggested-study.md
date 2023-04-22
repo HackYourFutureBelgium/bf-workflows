@@ -4,6 +4,7 @@
 
 ### Typing Games
 
+- [monkey-type](https://monkeytype.com/)
 - [shortcutfoo.com](https://www.shortcutfoo.com/)
 - [speedcoder.net](https://www.speedcoder.net/lessons/)
 - [speedtyper.dev](https://www.speedtyper.dev/)
