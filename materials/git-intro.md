@@ -1,23 +1,15 @@
 # Git
 
-_git_ : is the most common used version control system.
+> What is git?
 
-- It allows you to clone repos.
-- It tracks your changes you make to files.
-- Store your files history, which means you can go to the previous version in
-  case you made a mistake.
-- It makes collaboration easier allowing changed by different developers to be
-  merged into one source.
-- It can automatically merge the changes, so two developers can work on the same
-  file and later they can merge their works.
+**Git**: is the most popular version control system.
 
-![git](../assets/git.png)
+it is used to :
 
-## Ways to use Git
+- track changes on the files.
+- track who made the changes.
+- coding collaboration.
 
-- CLI : from the command line interface(terminal).
-- GUI : like `GitKraken`.
-
-## Git repositories
+> What does git do?
 
 -
