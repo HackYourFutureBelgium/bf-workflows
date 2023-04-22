@@ -45,7 +45,8 @@
     "voxmedia",
     "pybot",
     "Katas",
-    "autocrlf"
+    "autocrlf",
+    "Blockquotes"
   ],
   "ignorePaths": ["node_modules/**", "**/*.json", "**/*.mp4", "**/*.svg"]
 }
