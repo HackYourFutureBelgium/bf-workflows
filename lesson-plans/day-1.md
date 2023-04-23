@@ -9,7 +9,6 @@ line, formatting & linting code, using git and GitHub.
 - Introduction
 
   - What is your name?
-  - Where are your from?
   - What is your education?
   - What are your hobbies?
   - Why did you join this class?
@@ -23,6 +22,8 @@ line, formatting & linting code, using git and GitHub.
 - Make sure all learners have `VS code`
   [install VS code](https://code.visualstudio.com/download)
 
+- What is `terminal` and why do we need it?
+  [CLI](https://www.guru99.com/linux-commands-cheat-sheet.html#1)
 - What is `git` and why do we need it? [git](../materials/git-intro.md)
 - What is `gitHub` and why do we need it?[gitHub](../materials/github-intro.md)
 - What is `node` and why do we need it?[node](../materials/node-intro.md)
