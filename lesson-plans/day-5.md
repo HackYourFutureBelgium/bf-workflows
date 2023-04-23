@@ -13,4 +13,4 @@ line, formatting & linting code, using git and GitHub.
 ## Second half
 
 - Continue working on your second individual project
-  [gitHub profile](../deliverables/gitHub-bio.md)
+  [gitHub profile](../deliverables/gitHub-profile.md)
