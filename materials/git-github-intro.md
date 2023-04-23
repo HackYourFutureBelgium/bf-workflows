@@ -27,7 +27,7 @@ git config --global user.email "your gitHub's email"
 
 > How can I start working on a project?
 
-1- You need to create a repository on `GitHub`. Note: choose the right owner.
+1- You need to create a repository on `GitHub`. Note: choose the right `owner`.
 
 2- You can add collaborators.
 
@@ -41,15 +41,15 @@ git config --global user.email "your gitHub's email"
 git clone <repo URL>
 ```
 
-To push your code to a remote repo (GitHub) `main` after you adding and
-committing your changes
+To push your code to a remote repo (GitHub) `main` after adding and committing
+your changes
 
 ```Markdown
 git push
 ```
 
-To push your code to a remote repo (GitHub) `another-branch` after you adding
-and committing your changes
+To push your code to a remote repo (GitHub) `another-branch` after adding and
+committing your changes
 
 ```Markdown
 git push --set-upstream origin <branch name>
@@ -61,7 +61,7 @@ To pull the latest update from a remote repo (GitHub), to the `main` branch
 git pull
 ```
 
-To pull the latest update from a remote repo (GitHub), to the `another-branch`
+To pull the latest update from a remote repo (GitHub), to `another-branch`
 branch
 
 ```Markdown
