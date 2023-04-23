@@ -8,7 +8,7 @@ line, formatting & linting code, using git and GitHub.
 
 - Q/A Review.
 - Time to work on your second individual project
-  [gitHub profile](../deliverables/gitHub-bio.md)
+  [gitHub profile](../deliverables/gitHub-profile.md)
 
 ## Second half
 

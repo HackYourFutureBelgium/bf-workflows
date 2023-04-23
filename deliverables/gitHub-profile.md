@@ -16,12 +16,12 @@ the project board, your issue should have:
 - milestone: Workflows
 
 ```markdown
+- [ ] [repo](https://github.com/_/_)
+- [ ] I added a coach as a collaborator
 - [ ] I wrote my markdown(README.md) locally on a new branch
 - [ ] I pulled and merged `main` into my branch before pushing
 - [ ] I pushed my branch to my repo and opened a PR
 - [ ] I went through the PR checklist
 - [ ] All the CI check pass
 - [ ] I assigned a coach to review my PR
-- [ ] I
-      [linked my PR to this issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
 ```
