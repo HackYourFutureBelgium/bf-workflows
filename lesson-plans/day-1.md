@@ -15,9 +15,9 @@ line, formatting & linting code, using git and GitHub.
   - Why did you join this class?
 
 - Make sure all learners have `GitHub` accounts.
-  [Create gitHub account](https://www.github.com)
+  [Create a gitHub account](https://www.github.com)
 - Make sure all learners have `git` on their machine.
-  [Do I have git on my machine](../materials/git-installalation.md)
+  [Install git](../materials/git-installalation.md)
 - Make sure all leaner have `node` on their machines.
   [Install node](../materials/node-installation.md)
 - Make sure all learners have `VS code`
@@ -35,6 +35,7 @@ line, formatting & linting code, using git and GitHub.
 
 ## Second half
 
-- **Student Bio**
+### Student Bio
+
 - Time to do you first `individual` project, write your bio using `markdown`
   [Student bio](../deliverables/student-bio.md)
