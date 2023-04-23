@@ -267,7 +267,7 @@ These 4 columns may be helpful:
    - using HTTPS:
      `git clone https://github.com/HackYourFutureBelgium/bf-workflows.git`
 2. navigate to the cloned repository
-   - `cd workflows`
+   - `cd bf-workflows`
 3. Install dependencies:
    - `npm install`
 

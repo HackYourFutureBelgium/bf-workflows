@@ -21,7 +21,7 @@ line, formatting & linting code, using git and GitHub.
 - Make sure all leaner have `node` on their machines.
   [Install node](../materials/node-installation.md)
 - Make sure all learners have `VS code`
-  [install Vs code](https://code.visualstudio.com/download)
+  [install VS code](https://code.visualstudio.com/download)
 
 - What is `git` and why do we need it? [git](../materials/git-intro.md)
 - What is `gitHub` and why do we need it?[gitHub](../materials/github-intro.md)
