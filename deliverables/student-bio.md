@@ -9,7 +9,7 @@ can get to know you.
 Copy-paste this checklist into a new deliverables issue and move your issue to
 the project board, your issue should have:
 
-- labels:`individual`, `deliverable`, `student-bio`
+- labels:`individual`, `deliverable`, `week-1`
 - milestone: Workflows
 
 ```markdown
