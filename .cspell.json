@@ -46,7 +46,8 @@
     "pybot",
     "Katas",
     "autocrlf",
-    "Blockquotes"
+    "Blockquotes",
+    "samir"
   ],
   "ignorePaths": ["node_modules/**", "**/*.json", "**/*.mp4", "**/*.svg"]
 }

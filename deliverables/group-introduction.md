@@ -55,3 +55,24 @@ group members, and paste this checklist into your issue before
     - [ ] make sure all of the checks passed
     - [ ] assigned someone to review and merge my PR
   ```
+
+## Steps
+
+0. create a new issue on your class `home` repo, ex:
+   `group1 : workflows : intro` , labels : `group`,`deliverable` and `week-1`
+   and add the first checklist to your issue.
+1. one of you will be the `project leader`
+2. create a new repo on your `class organization` using the template  
+   [Markdown template repository](https://github.com/HackYourFutureBelgium/template-markdown)
+3. go to setting, turn on gitHub pages, add collaborators and give them `write`
+   access, protect `master/main` branch and turn on discussions
+4. discus with your teammates about the project, how many branches you will need
+   to create? how many files?
+5. create a `project board`
+6. create your issues, `one issue for each file` and add them to the
+   `project board`
+7. create a branch add your file ex: `samir.md` add your info.
+8. run all code quality check.
+9. add your changes and commit them.
+10. push your changes and make a `PR`
+11. add the checklist to your `PR` and add `reviewers` and link the `issue`
