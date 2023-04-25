@@ -40,7 +40,7 @@ the project board, your issue should have:
 - in `student-bios` folder create a new md file, IMPORTANT: the name of the file
   should be exactly as your gitHub userName.
 - you can add your photo(s) to `img` folder.
-- add info about your self tot he md file you created after you are done.
+- add info about your self to the md file you created after you are done.
 - make sure you pass all code quality checks
 - `npm run format`
 - `npm run format:check`
