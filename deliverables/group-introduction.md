@@ -73,6 +73,8 @@ group members, and paste this checklist into your issue before
    `project board`
 7. create a branch add your file ex: `samir.md` add your info.
 8. run all code quality check.
-9. add your changes and commit them.
-10. push your changes and make a `PR`
-11. add the checklist to your `PR` and add `reviewers` and link the `issue`
+9. run `git pull origin main`
+10. if you have a conflict resolved it.
+11. add your changes and commit them.
+12. push your changes and make a `PR`
+13. add the checklist to your `PR` and add `reviewers` and link the `issue`
