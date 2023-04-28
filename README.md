@@ -351,7 +351,11 @@ project naming convention
 
 ### day 4
 
+[Part1](https://youtu.be/qM1pnGKnRYY)
+
 ### day 5
+
+[Part1](https://youtu.be/C9Z3jCqzls8)
 
 </details>
 
