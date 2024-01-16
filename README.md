@@ -337,25 +337,7 @@ project naming convention
 <summary>expand/collapse</summary>
 <br>
 
-### day 1
-
-[Part1](https://youtu.be/QJK-T_eKH_Y), [Part2](https://youtu.be/zylMg7a7wno)
-
-### day 2
-
-[Part1](https://youtu.be/dwOptNVMvhY),[Part2](https://youtu.be/OZTWuWOc0zg)
-
-### day 3
-
-[Part1](https://youtu.be/KSYI9dcuClk)
-
-### day 4
-
-[Part1](https://youtu.be/qM1pnGKnRYY)
-
-### day 5
-
-[Part1](https://youtu.be/C9Z3jCqzls8)
+- [Recording 1](https://youtu.be/H3TCpQd7aBA)
 
 </details>
 
