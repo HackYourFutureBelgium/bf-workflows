@@ -338,6 +338,7 @@ project naming convention
 <br>
 
 - [Recording 1](https://youtu.be/H3TCpQd7aBA)
+- [Recording 2](https://youtu.be/JexJDLIJyo4)
 
 </details>
 
