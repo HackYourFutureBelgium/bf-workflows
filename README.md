@@ -331,16 +331,4 @@ project naming convention
 
 </details>
 
-## Class recording
-
-<details>
-<summary>expand/collapse</summary>
-<br>
-
-- [Recording 1](https://youtu.be/H3TCpQd7aBA)
-- [Recording 2](https://youtu.be/JexJDLIJyo4)
-- [Recording 3](https://youtu.be/xkvLOKjIR_U)
-
-</details>
-
 [TOP](#workflows)
