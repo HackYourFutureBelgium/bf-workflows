@@ -1,9 +1,7 @@
 # Student bio Eben
 
-  *My name is Ebenezer but my friends call me ebenito,
-  i would like to learn more about _Back-end development_*
-
-
+_My name is Ebenezer but my friends call me ebenito, i would like to learn more
+about *Back-end development*_
 
 ## Checklist
 
