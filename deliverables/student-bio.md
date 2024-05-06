@@ -1,8 +1,9 @@
-# Student Bio
+# Student bio Eben
 
-Write a short bio for yourself using Markdown and add it to your class
-repository using Local/Remote workflows. Just a little intro so your classmates
-can get to know you.
+  *My name is Ebenezer but my friends call me ebenito,
+  i would like to learn more about _Back-end development_*
+
+
 
 ## Checklist
 
