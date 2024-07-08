@@ -20,8 +20,6 @@ scalable network applications with ease.
   which compiles JavaScript directly to native machine code for high
   performance.
 
-![Node.js Overview](../assets/nodejs-overview.png)
-
 ## Core Concepts
 
 ### 1. Asynchronous Programming
