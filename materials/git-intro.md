@@ -1,182 +1,201 @@
 # Git
 
-> What is git?
+## What is Git?
 
-## Git(Version control system)
+**Git** is the most popular version control system, widely used for tracking
+changes in source code during software development.
 
-is the most popular version control system.
+![Git Over Time](../assets/change-files.png)
 
-![git over time](../assets//change-files.png)
+### Key Features of Git
 
-- `Git` is software that runs locally. Your files and their history are stored
-  on your computer.
-- `Git` tracks the changes you make to files.
-- `Git` also makes collaboration easier, allowing changes by multiple people to
-  all be merged into one source.
+- **Local Storage**: Git is software that runs locally on your computer. Your
+  files and their history are stored on your machine.
+- **Change Tracking**: Git tracks the changes you make to files, allowing you to
+  see a history of modifications.
+- **Collaboration**: Git simplifies collaboration by enabling multiple
+  developers to merge their changes into one source.
 
-![git](../assets/git.png)
+![Git](../assets/git.png)
 
-### Git Repositories\*\*
+## Git Repositories
 
-It is a hidden subfolder contains all of the project files and the entire
-revision history.
+A **Git repository** is a hidden subfolder within your project directory that
+contains all of your project files and the entire revision history.
 
-### The Three States
+## The Three States of Git
 
-Git has three main states that your files can reside in: modified, staged, and
-committed:
+Git files can reside in one of three states: modified, staged, and committed.
 
-- _Modified_: means that you have changed the file(s) but have not committed it
-  yet.
-- _Staged_: means that you have added the changed file(s) to the `staging area`
-- _committed_: means the changed file(s) has been committed.
+- **Modified**: Changes have been made to the file(s) but not yet committed.
+- **Staged**: Changes have been added to the staging area and are ready to be
+  committed.
+- **Committed**: Changes have been committed and saved to the local repository.
 
-![git states](../assets/git-states.png)
+![Git States](../assets/git-states.png)
 
-### Git Branching
+## Git Branching
 
-_Git_ allows you to create different branches, where you can add your code
-without affecting the `master/main` branch. Also developers can work on
-different branch at the same time.
+Git allows you to create branches, enabling you to work on different features or
+fixes without affecting the `main` branch. This facilitates parallel development
+by multiple developers.
 
-![git branches](../assets//branches.png)
+![Git Branches](../assets/branches.png)
 
-### Git Merging
+## Git Merging
 
-_Git merge_ it is combining two separate development histories into one. In
-other words, you can merge code from a separate branch into the main branch to
-integrate the changes.
+**Git merge** combines two separate development histories into one. For
+instance, you can merge changes from a feature branch into the `main` branch to
+integrate new features or bug fixes.
 
-### git most used commands
+## Common Git Commands
 
-Add `user name` to git
+### Configuring Git
 
-```Markdown
-  git config --global user.name "your gitHub user name"
+Set your Git username:
+
+```sh
+git config --global user.name "Your GitHub Username"
 ```
 
-Add `email` to git
+Set your Git email:
 
-```Markdown
-  git config --global user.email "your email"
+```sh
+git config --global user.email "your.email@example.com"
 ```
 
-Make `VS code` the default editor
+Set VS Code as the default editor:
 
-```Markdown
+```sh
 git config --global core.editor "code --wait"
 ```
 
-Handle the end line <br> Mac or Linux
+Handle end-of-line configurations:
 
-```Markdown
-git config --global core.autocrlf input
-```
+- For macOS or Linux:
 
-Windows
+  ```sh
+  git config --global core.autocrlf input
+  ```
 
-```Markdown
-git config --global core.autocrlf true
-```
+- For Windows:
 
-See all git global configuration in your `VS code`
+  ```sh
+  git config --global core.autocrlf true
+  ```
 
-```Markdown
+View all global configurations in VS Code:
+
+```sh
 git config --global -e
 ```
 
-Initialize empty git repo
+### Initializing and Checking Status
 
-```Markdown
+Initialize an empty Git repository:
+
+```sh
 git init
 ```
 
-List all the untracked files
+List all untracked files:
 
-```Markdown
+```sh
 git status
 ```
 
-Add file(s) to staging area
+### Staging and Committing Changes
 
-```Markdown
-git add <file name>
+Add a file to the staging area:
+
+```sh
+git add <file-name>
 ```
 
-Add all file(s) to staging area
+Add all files to the staging area:
 
-```Markdown
+```sh
 git add .
 ```
 
-Remove file(s) from staging area
+Remove a file from the staging area:
 
-```Markdown
-git reset <file name>
+```sh
+git reset <file-name>
 ```
 
-Commit changes
+Commit changes with a descriptive message:
 
-```Markdown
-git commit -m " descriptive message"
+```sh
+git commit -m "Descriptive message"
 ```
 
-Save changes without committing them temperately
+### Stashing Changes
 
-```Markdown
+Save changes temporarily without committing them:
+
+```sh
 git stash
 ```
 
-To restore or reapply the stashed changes
+Restore stashed changes:
 
-```Markdown
+```sh
 git stash apply
 ```
 
-To create a new branch
+### Branching and Merging
 
-```Markdown
-git branch <branch name>
+Create a new branch:
+
+```sh
+git branch <branch-name>
 ```
 
-To switch to the new branch
+Switch to a new branch:
 
-```Markdown
-git checkout <branch name>
+```sh
+git checkout <branch-name>
 ```
 
-To create a new branch and switch to it
+Create a new branch and switch to it:
 
-```Markdown
-git checkout -b <branch name>
+```sh
+git checkout -b <branch-name>
 ```
 
-To revert a commit
+### Reverting and Resetting
 
-```Markdown
-git revert <A commit hash>
+Revert a commit:
+
+```sh
+git revert <commit-hash>
 ```
 
-To reset the changes
+Reset changes:
 
-```Markdown
+```sh
 git reset
 ```
 
-To display the most recent commits
+### Viewing History and Differences
 
-```Markdown
+Display the most recent commits:
+
+```sh
 git log
 ```
 
-To compare changes
+Compare changes between commits:
 
-```Markdown
+```sh
 git diff
 ```
 
-To integrate changes from one branch onto another
+### Rebase
 
-```Markdown
-git rebase <branch name>
+Integrate changes from one branch onto another:
+
+```sh
+git rebase <branch-name>
 ```
