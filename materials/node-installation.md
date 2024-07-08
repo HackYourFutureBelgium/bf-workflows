@@ -29,5 +29,5 @@
 - open your terminal and type `node -v`
 - if you didn't get a version then
 - `sudo apt update`
-- `sudo apt install Node.js`
+- `sudo apt install node.js`
 - `sudo apt install npm`

@@ -17,8 +17,6 @@ line, formatting & linting code, using git and GitHub.
 
 ## Projects
 
-### Student Bio
-
 - [Student bio](../deliverables/student-bio.md)
 - [group-intro](../deliverables/group-introduction.md)
 - [gitHub profile](../deliverables/gitHub-profile.md)
