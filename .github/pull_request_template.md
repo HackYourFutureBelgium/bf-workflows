@@ -11,7 +11,7 @@ about: A template PR for contributing to this project
   - request a review when you open a PR
 -->
 
-## Checklists
+# Checklists
 
 <!-- general checks -->
 
