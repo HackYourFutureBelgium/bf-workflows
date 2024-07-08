@@ -1,5 +1,5 @@
 {
-  "name": "workflows",
+  "name": "bf-workflows",
   "version": "2.0.0",
   "description": "Materials for the Workflows module at HackYourFuture Belgium",
   "scripts": {

@@ -1,2 +1,86 @@
-node_modules
-**/.DS_Store
+# Ignore node_modules directory if using npm for managing dependencies
+node_modules/
+
+# Ignore .env files containing environment variables
+.env
+.env.*
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore specific text editor files
+*~
+*.swp
+*.swo
+*.bak
+*.orig
+
+# Ignore output directories and files
+dist/
+build/
+output/
+
+# Ignore backups
+*.bak
+
+# Ignore Python specific files if you're using Python scripts in your project
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore coverage reports
+coverage/
+*.lcov
+
+# Ignore various compression file formats
+*.zip
+*.tar.gz
+*.rar
+
+# Ignore images if you want to manage them separately
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Ignore compiled code and binaries
+*.o
+*.out
+*.class
+*.exe
+
+# Ignore database files
+*.sqlite3
+
+# Ignore documentation generated files
+docs/
+*.doc
+*.docx
+*.pdf
+
+# Ignore lock files for package managers
+yarn.lock
+package-lock.json
+pipfile.lock
+
+# Ignore temporary directories for editors
+.sass-cache/
+.idea/
+.vscode/
+
+# Ignore coverage reports
+coverage/
+.nyc_output/
+coverage-final.json
